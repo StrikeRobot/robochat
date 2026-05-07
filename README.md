@@ -28,11 +28,9 @@
 ## Demo
 
 <div align="center">
-
-![RoboChat Demo](docs/demo/chat-demo.gif)
-
-*RoboChat streams AI responses in real-time, executes robot commands, and visualizes the surrounding environment with a live radar scan*
-
+<img src="docs/demo/chat-demo.gif" alt="RoboChat Demo" width="100%">
+<br><br>
+<em>RoboChat streams AI responses in real-time, executes robot commands, and visualizes the surrounding environment with a live radar scan</em>
 </div>
 
 ---

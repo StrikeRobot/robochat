@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+!.env.example
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env.local
+!.env.local.example
+*.tsbuildinfo
+
+# Data
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+*.swp
+*~
+Thumbs.db
+
+# Editors
+.vscode/settings.json
+.idea/
+*.iml

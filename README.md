@@ -33,6 +33,8 @@
 
 *RoboChat streams AI responses in real-time, executes robot commands, and visualizes the surrounding environment with a live radar scan*
 
+> **Can't see the video?** [Download the demo](docs/demo/chat-demo.mp4) or upload it via a GitHub issue to get an embeddable CDN link.
+
 </div>
 
 ---
